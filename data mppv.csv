@@ -1,10 +1,10 @@
 ﻿date time,device,location,Type,numdevice
 02/05 7:39am,printer,นาหนองทุ่ม ,station,0
-02/06 3:50am,printer,กากหม้อกรอง,factory,
-02/12 4:41pm,printer,ห้วยเตย,station,
-02/12 7:03pm,pc,วังคอนแดง,station,
-02/13 7:10pm,printer,spare,factory,
-02/13 4:57pm,printer,ผักหวาน,station,
+02/06 3:50am,printer,กากหม้อกรอง,factory,1
+02/12 4:41pm,printer,ห้วยเตย,station,2
+02/12 7:03pm,pc,วังคอนแดง,station,3
+02/13 7:10pm,printer,spare,factory,4
+02/13 4:57pm,printer,ผักหวาน,station,5
 02/13 8:00pm,pc,HR,factory,
 02/14 6:10pm,printer,บริการไร่,factory,
 02/14 6:40pm,printer,เขต1,station,
