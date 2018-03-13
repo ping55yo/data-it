@@ -1,23 +1,23 @@
-﻿date time,device,location,Type,num
-02/05 7:39am,printer,นาหนองทุ่ม ,station,1
-02/06 3:50am,printer,กากหม้อกรอง,factory,2
-02/12 4:41pm,printer,ห้วยเตย,station,3
-02/12 7:03pm,pc,วังคอนแดง,station,4
-02/13 7:10pm,printer,spare,factory,5
-02/13 4:57pm,printer,ผักหวาน,station,6
-02/13 8:00pm,pc,HR,factory,7
-02/14 6:10pm,printer,บริการไร่,factory,8
-02/14 6:40pm,printer,เขต1,station,9
-02/14 6:58pm,printer,บริการไร่,factory,10
-02/15 4:21pm,pc,ยางหล่อ,station,11
-02/15 9:00pm,pc,ยางหล่อ,station,12
-02/20 5:15am,pc,กากหม้อกรอง,factory,13
-02/21 1:42am,pc,เหล่าใหญ่ ,station,14
-02/21 4:55am,lan,ป้อมแจ้งคิว,factory,15
-02/21 4:55am,printer,ป้อมแจ้งคิว,factory,16
-02/26 10:15pm,pc,วิเคราะห์,factory,17
-02/28 6:07pm,printer,ดอนปอ,station,18
-02/28 6:38pm,pc,บริการไร่,factory,19
-02/28 9:21pm,printer,ดอนปอ,station,20
-02/03 5:26pm,printer,นาหนองทุ่ม ,station,21
-02/05 3:30am,printer,บริการไร่,factory,22
+﻿date time,device,location,Type,numdevice
+02/05 7:39am,printer,นาหนองทุ่ม ,station,0
+02/06 3:50am,printer,กากหม้อกรอง,factory,
+02/12 4:41pm,printer,ห้วยเตย,station,
+02/12 7:03pm,pc,วังคอนแดง,station,
+02/13 7:10pm,printer,spare,factory,
+02/13 4:57pm,printer,ผักหวาน,station,
+02/13 8:00pm,pc,HR,factory,
+02/14 6:10pm,printer,บริการไร่,factory,
+02/14 6:40pm,printer,เขต1,station,
+02/14 6:58pm,printer,บริการไร่,factory,
+02/15 4:21pm,pc,ยางหล่อ,station,
+02/15 9:00pm,pc,ยางหล่อ,station,
+02/20 5:15am,pc,กากหม้อกรอง,factory,
+02/21 1:42am,pc,เหล่าใหญ่ ,station,
+02/21 4:55am,lan,ป้อมแจ้งคิว,factory,
+02/21 4:55am,printer,ป้อมแจ้งคิว,factory,
+02/26 10:15pm,pc,วิเคราะห์,factory,
+02/28 6:07pm,printer,ดอนปอ,station,
+02/28 6:38pm,pc,บริการไร่,factory,
+02/28 9:21pm,printer,ดอนปอ,station,
+02/03 5:26pm,printer,นาหนองทุ่ม ,station,
+02/05 3:30am,printer,บริการไร่,factory,15
